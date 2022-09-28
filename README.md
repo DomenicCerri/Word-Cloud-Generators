@@ -6,3 +6,6 @@
 2. Replace the example filepath for the document or WhatsApp file and the image mask with the files you wish to use
 3. In the wordcloud parameters, add/remove words to the custom stop_words array as needed
 4. Execute the script
+
+### Dependencies
+https://github.com/amueller/word_cloud.git
